@@ -10,7 +10,7 @@ body{
 	font-size:13px;
 	line-height:1.5em;
 	color:#90F;
-	background-color:#9FF;
+	background-color:#9FF
 }
 
 .clearfix{
@@ -88,7 +88,7 @@ button#stop{
 	padding:10px;
 }
 
-#playlist lo{
+#playlist li{
 	cursor:pointer;
 	margin:5px;
 }
